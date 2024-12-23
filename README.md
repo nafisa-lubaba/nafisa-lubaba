@@ -3,7 +3,7 @@
 
 
 <p>
-  <img src="/Designer-nafisa.gif" width="50" height="10"  />
+  <img src="" width="60" height="10"  />
   <strong style="font-size: 40px;">Hi There...</strong>
 </p>
 <hr>
