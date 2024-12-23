@@ -1,9 +1,10 @@
 ![Header](https://i.ibb.co.com/qpLjPYG/github-banner-nafisaalubaba.png "Header")
 <p>
-  <img src="/Developer.gif" width="45" />
-  <strong style="font-size: 40px;">About Me:</strong>
+  <img src="/designer.gif" width="45" />
+  # Hi there, I'm Nafisa Lubaba! 👋
+ 
 </p>
-# Hi there, I'm Nafisa Lubaba! 👋
+
 
 Welcome to my GitHub profile! I'm a passionate and dedicated software developer with a keen interest in creating impactful solutions through technology. Whether it’s building intuitive user interfaces, crafting efficient backends, or exploring new tools and frameworks, I’m always eager to learn and grow.
 
