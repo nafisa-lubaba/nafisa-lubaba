@@ -1,10 +1,8 @@
 ![Header](https://i.ibb.co.com/qpLjPYG/github-banner-nafisaalubaba.png "Header")
-<p>
-  <img src="/Designer.gif" width="60" />
-
-  <strong style="font-size: 40px;">Hi there, I'm Nafisa Lubaba! 👋</strong>
-</p>
-  
+<div style="display: flex; align-items: center;">
+  <img src="/Designer.gif" width="60" style="margin-right: 10px;" />
+  <h1>Hi there, I'm Nafisa Lubaba! 👋</h1>
+</div>
  
 
 
