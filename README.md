@@ -1,6 +1,6 @@
 ![Header](https://i.ibb.co.com/qpLjPYG/github-banner-nafisaalubaba.png "Header")
 <p>
-  <img src="/designer.gif" width="45" />
+  <img src="/designer.gif" width="60" />
   # Hi there, I'm Nafisa Lubaba! 👋
  
 </p>
