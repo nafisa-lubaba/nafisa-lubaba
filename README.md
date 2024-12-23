@@ -3,7 +3,7 @@
 
 
 <p>
-  <img src="/Designer.gif" width="40" height="10"  />
+  <img src="/Designer.gif" width="40" height="5"  />
   <strong style="font-size: 40px;">Hi There...</strong>
 </p>
 <hr>
