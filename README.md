@@ -19,23 +19,30 @@
 ---
 
 ## 💼 Skills & Expertise
-<p align="center">
-  <code><img title="Javascript" height="40" src="JavaScript.png"></code>
-</p>
-<br>
-<p align="center">
-  <code><img title="Html" height="40" src="html5.svg"></code>
-  <code><img title="Css" height="40" src="css.svg"></code>
-  <code><img title="React" height="40" src="React.png"></code>
-  <code><img title="Firebase" height="40" src="Firebase.png"></code>
-</p>
-<br>
-<p align="center">
-  <code><img title="Node" height="40" src="Node.png"></code>
- 
-  <code><img title="MongoDB" height="28" src="mongodb.png"></code>
 
+<div align="center">
+
+### 🖥️ Programming Languages
+<p>
+  <img title="JavaScript" height="50" src="JavaScript.png" style="margin: 10px;">
+  <img title="HTML" height="50" src="html5.svg" style="margin: 10px;">
+  <img title="CSS" height="50" src="css.svg" style="margin: 10px;">
 </p>
+
+### 🔧 Frameworks & Libraries
+<p>
+  <img title="React" height="50" src="React.png" style="margin: 10px;">
+  <img title="Node.js" height="50" src="Node.png" style="margin: 10px;">
+  <img title="Firebase" height="50" src="Firebase.png" style="margin: 10px;">
+</p>
+
+### 🗄️ Database Management
+<p>
+  <img title="MongoDB" height="50" src="mongodb.png" style="margin: 10px;">
+</p>
+
+</div>
+
 
 ---
 
