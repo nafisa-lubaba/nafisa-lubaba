@@ -3,8 +3,8 @@
 
 
 <p>
-  <img src="/Designer.gif" width="40" height="5"  />
-  <strong style="font-size: 40px;">Hi There...</strong>
+  <img src="/hi.png" width="40" />
+  <strong style="font-size: 50px;">Hi There...</strong>
 </p>
 <hr>
 <p>I'm Nafisa Lubaba, a passionate and dedicated software developer with a keen interest in creating impactful solutions through technology. Whether it’s building intuitive user interfaces, crafting efficient backends, or exploring new tools and frameworks, I’m always eager to learn and grow.</p>
