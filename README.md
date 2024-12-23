@@ -8,15 +8,15 @@ Welcome to my GitHub profile! I'm a passionate and dedicated software developer 
 - 💻 **Profession:** Aspiring Software Developer/Engineer
 - 🌱 **Currently Learning:** [List technologies or frameworks you're learning, e.g., "React, Node.js"]
 - 🎯 **Goal:** To build innovative and scalable software solutions
-- 🌍 **Location:** [Add your location or "Available for remote opportunities"]
+
 
 ---
 
 ## 💼 Skills & Expertise
-- **Languages:** [e.g., JavaScript, Python, C++]
-- **Frameworks:** [e.g., React, Node.js, Express.js]
-- **Tools & Technologies:** [e.g., Git, GitHub, Docker, Figma]
-- **Database Management:** [e.g., MySQL, MongoDB]
+- **Languages:** [ JavaScript, Python, C++]
+- **Frameworks:** [ React, Node.js,]
+- **Tools & Technologies:** [ Git, GitHub, Figma]
+- **Database Management:** [ MongoDB]
 
 ---
 
@@ -28,6 +28,5 @@ Welcome to my GitHub profile! I'm a passionate and dedicated software developer 
 ---
 
 ## 🤝 Let's Connect
-- 🌐 [Portfolio Website](#) *(Add link if available)*
-- 💼 [LinkedIn](#) *(Add link)*
-- 📫 **Email:** [Your Email Here]
+- 💼 [LinkedIn](#) *(https://www.linkedin.com/in/nafisalubabain/)*
+- 📫 **Email:** [nafisalubaba71@gmail.com]
