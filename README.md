@@ -1,15 +1,13 @@
 ![Header](https://i.ibb.co/qpLjPYG/github-banner-nafisaalubaba.png "Header")
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+Welcome+to+my+GitHub;" />
-</h1>
+
 
 <p>
-  <img src="/Designer.gif" width="45" />
-  <strong style="font-size: 40px;">About Me:</strong>
+  <img src="/Designer-nafisa.gif" width="45" />
+  <strong style="font-size: 40px;">Hi There...</strong>
 </p>
 <hr>
-<p>Hi, I'm Nafisa Lubaba, a passionate and dedicated software developer with a keen interest in creating impactful solutions through technology. Whether it’s building intuitive user interfaces, crafting efficient backends, or exploring new tools and frameworks, I’m always eager to learn and grow.</p>
+<p>I'm Nafisa Lubaba, a passionate and dedicated software developer with a keen interest in creating impactful solutions through technology. Whether it’s building intuitive user interfaces, crafting efficient backends, or exploring new tools and frameworks, I’m always eager to learn and grow.</p>
 
 ---
 
