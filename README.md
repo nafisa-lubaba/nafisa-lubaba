@@ -63,5 +63,5 @@
 
 ## 🤝 Let's Connect
 - 💼 [LinkedIn](https://www.linkedin.com/in/nafisalubabain/)
-- 📫 [nafisalubaba71@gmail.com](mailto:nafisalubaba71@gmail.com)
+- 📫 [Email](mailto:nafisalubaba71@gmail.com)
 
